@@ -1,4 +1,4 @@
-# 👋 Hi / Hola, I’m Andrés Esquivel Díaz  
+# 👋 Hi, I’m Andrés Esquivel Díaz  
 
 🎯 **Data Analyst | Analista de Datos**  
 Data Analyst | Python • SQL • Tableau • Excel | Turning data into actionable insights
