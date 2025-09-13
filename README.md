@@ -4,6 +4,10 @@
 Data Analyst | Python • SQL • Tableau • Excel | Turning data into actionable insights
 
 ---
+# 👋 Hola, soy Andy (Andrés Esquivel Díaz)
+
+Soy **Data Analyst** con experiencia en Python, SQL, Excel y Tableau.  
+Después de más de 13 años en la industria hotelera, me enfoqué en el análisis de datos para apoyar la toma de decisiones, optimizar procesos y descubrir oportunidades de negocio.  
 
 ## 🔧 Tech Stack / Stack Tecnológico  
 
@@ -14,23 +18,65 @@ Data Analyst | Python • SQL • Tableau • Excel | Turning data into actionab
 
 ---
 
-## 📌 Featured Projects / Proyectos Destacados  
+## 🚀 Proyectos destacados
 
-### 🛒 Showz Online Store Analysis / Análisis Showz Online Store  
-- EN: Evaluated marketing ROI using sales and cost data. Built Tableau dashboard to detect **15% cost saving opportunities**.  
-- ES: Evaluación de ROI de marketing a partir de ventas y costos. Dashboard en Tableau con oportunidades de ahorro de hasta **15%**.  
+### 📞 Telecom Inefficiency Analysis
+- **Descripción**: Análisis exploratorio de operadores de telecomunicaciones para identificar ineficiencias, altas tasas de llamadas perdidas y problemas de enrutamiento.  
+- **Tecnologías**: Python (pandas, matplotlib, seaborn, scipy, statsmodels), Jupyter Notebook.  
+- [Repositorio en GitHub](https://github.com/tu_usuario/telecom-inefficiency-analysis)
 
-### 🎮 Ice Video Game Sales / Ventas Globales de Videojuegos  
-- EN: Analyzed global sales, reviews and ratings to identify **success drivers**.  
-- ES: Análisis de ventas, reseñas y clasificaciones para identificar **factores de éxito**.  
+---
 
-### 📱 E-commerce App A/B Test / Prueba A/B en App de E-commerce  
-- EN: Designed and analyzed an **A/A/B experiment** to assess typography changes.  
-- ES: Diseño y análisis de experimento **A/A/B** para cambios tipográficos.  
+### 🅰️🅱️ AB Test App Typography
+- **Descripción**: Test A/A/B en una aplicación móvil para evaluar el impacto de cambios tipográficos sobre el comportamiento del usuario, con análisis de embudo de conversión.  
+- **Tecnologías**: Python (pandas, numpy, matplotlib, seaborn, scipy, statsmodels), Jupyter Notebook.  
+- [Repositorio en GitHub](https://github.com/tu_usuario/ab-test-app-typography)
 
-### 💡 Hypothesis Prioritization / Priorización de Hipótesis  
-- EN: Ranked experiments using **ICE and RICE frameworks**.  
-- ES: Clasificación de experimentos con **frameworks ICE y RICE**.  
+---
+
+### 🚗 Aplicación Análisis de Vehículos Usados
+- **Descripción**: Aplicación web interactiva que permite explorar un conjunto de datos de anuncios de venta de vehículos en EE.UU., filtrando por precio, año, marca y otras características.  
+- **Tecnologías**: Python, Streamlit, pandas, matplotlib, seaborn.  
+- [Repositorio en GitHub](https://github.com/tu_usuario/Aplicacion_Analisis_de_vehiculos_usados)
+
+---
+
+## 🔧 Tecnologías y herramientas
+- **Lenguajes**: Python, SQL  
+- **Visualización**: Tableau, Matplotlib, Seaborn, Plotly  
+- **Entornos**: Jupyter Notebook, Anaconda, Streamlit  
+- **Otros**: Excel avanzado, Git/GitHub  
+
+---
+
+## 🚀 Featured Projects
+
+### 📞 Telecom Inefficiency Analysis
+- **Description**: Exploratory analysis of telecom operators to identify inefficiencies, high missed call rates, and routing issues.  
+- **Technologies**: Python (pandas, matplotlib, seaborn, scipy, statsmodels), Jupyter Notebook.  
+- [GitHub Repository](https://github.com/tu_usuario/telecom-inefficiency-analysis)
+
+---
+
+### 🅰️🅱️ AB Test App Typography
+- **Description**: A/A/B test on a mobile app to evaluate the impact of typography changes on user behavior, including conversion funnel analysis.  
+- **Technologies**: Python (pandas, numpy, matplotlib, seaborn, scipy, statsmodels), Jupyter Notebook.  
+- [GitHub Repository](https://github.com/tu_usuario/ab-test-app-typography)
+
+---
+
+### 🚗 Used Cars Analysis App
+- **Description**: Interactive web application to explore a dataset of used car sales listings in the U.S., with filters by price, year, brand, and other features.  
+- **Technologies**: Python, Streamlit, pandas, matplotlib, seaborn.  
+- [GitHub Repository](https://github.com/tu_usuario/Aplicacion_Analisis_de_vehiculos_usados)
+
+---
+
+## 🔧 Tools & Technologies
+- **Languages**: Python, SQL  
+- **Visualization**: Tableau, Matplotlib, Seaborn, Plotly  
+- **Environments**: Jupyter Notebook, Anaconda, Streamlit  
+- **Other**: Advanced Excel, Git/GitHub  
 
 ---
 
